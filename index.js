@@ -85,8 +85,8 @@ function fetchInputs() {
     barWidth = 0.15 * canvas.width;
     horizontalMargin = 0.10 * canvas.width;
   } else if (bars > 4) {
-    barWidth = 0.08 * canvas.width;
-    horizontalMargin = 0.05 * canvas.width;
+    barWidth = 0.05 * canvas.width;
+    horizontalMargin = 0.03 * canvas.width;
   }
 
   numberOfGrids = 20;
